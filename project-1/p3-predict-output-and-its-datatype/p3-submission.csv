@@ -1,0 +1,23 @@
+S.No,Initial Value,Value and Type of,Expected Value,Expected Value Type
+,,,,
+1,let num = 10,num*=5,,
+2,let data;,"
+data",,
+3,"let value=""Hello"";
+let result=value+10;",result,,
+4,"let length=2.3;
+let breadth=3.4;
+let area=length*breadth;","
+result",,
+5,"let firstName='Robert';
+let lastName='Miller';
+let fullname = firstName+lastName;",fullname,,
+6,,"true + false
+",,
+7,,true + true + true * 3,,
+8,,"5+""5""+1",,
+9,"let stringValue='true';
+let boolValue=true;","
+stringValue+boolValue",,
+10,,"""X"" - ""Y"" + ""1""",,
+11,,"""X""-""Y""+1",,

@@ -1,0 +1,9 @@
+S.No,Question ,Expected Output
+,,
+1,Declare a variable and initialize with 'John',
+2,Declare a variable to store the age of a person.,
+3,Declare a variable and initialize it with  null value.,
+4, Declare a constant variable and initialize it with float value 3.14,
+5,Declare a variable of undefined type,
+6,Declare a constant and intialize it with boolean value,
+7,Declare  3 variables and intialize it with 0,

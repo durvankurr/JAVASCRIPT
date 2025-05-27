@@ -1,0 +1,12 @@
+S.No,Question ,Expected Output,Reason
+,,,
+1,let firstname='Sam',,
+2,let lastName='Johnson';,,
+3,"let contact_no=""(123)456 7890"";",,
+4,let 9age32;,,
+5,let areEqual=false;,,
+6,let x=10;,,
+7,const numberOfDaysInALeapYear=366,,
+8,const daysInLeapYear=7;,,
+9,let has data=true;,,
+10,let  temp99=10;,,
