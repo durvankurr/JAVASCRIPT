@@ -1,0 +1,19 @@
+{
+  "name": "fe-c2-s4-testing-practice",
+  "version": "1.0.0",
+  "description": "This sprint has 1 practice.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.7.0"
+  }
+}
